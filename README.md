@@ -1,3 +1,3 @@
-# Information
+# Circle
 
-This blog is based on [Jekyll Now](https://github.com/barryclark/jekyll-now) framework. Beaware I am not author of it and only the posts are my property.
+This repository contains demo appplications of circle framework compiled to WASM.
